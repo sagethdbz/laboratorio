@@ -99,31 +99,31 @@
             </thead>
             <tbody>
                 <tr>
-                  <th scope="row">1</th>
-                  <td>Mark</td>
-                  <td>Otto</td>
-                  <td>@mdo</td>
+                  <th scope="row">MH100722</th>
+                  <td>Darwin</td>
+                  <td>Hernández</td>
+                  <td>Pendiente</td>
                 </tr>
                 <tr>
-                  <th scope="row">2</th>
-                  <td>Jacob</td>
-                  <td>Thornton</td>
-                  <td>tijh</td>
-                </tr>
-                <tr>
-                  <th scope="row">3</th>
-                  <td>Larry</td>
-                  <td>Bird</td>
-                  <td>twitter</td>
+                  <th scope="row">NM100322</th>
+                  <td>Carlos Daniel</td>
+                  <td>Nerio Martínez</td>
+                  <td>Pendiente</td>
                 </tr>
                 <tr>
                     <th scope="row">PS100114</th>
                     <td>José Mauricio</td>
-                    <td>Perez Sageth</td>
+                    <td>Pérez Sageth</td>
                     <td>LICENCIATURA EN SISTEMAS DE COMPUTACION ADMINISTRATIVA</td>
                   </tr>
               </tbody>
-            </table>
+             <tr>
+               <th scope="row">RM101712</th>
+               <td>Moises Alberto</td>
+               <td>Rivera Mendoza</td>
+               <td>Pendiente</td>
+             </tr>
+        </table>
     </div>
     <script src="js/bootstrap.bundle.js"></script>
 </body>
