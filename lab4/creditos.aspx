@@ -95,29 +95,29 @@
             </thead>
             <tbody>
                 <tr>
+                  <th scope="row">MH100722</th>
+                  <td>David Antonio</td>
+                  <td>Martínez Hernández</td>
+                  <td>ING o LIC</td>
+                </tr>
+                <tr>
                   <th scope="row">NM100322</th>
                   <td>Carlos Daniel</td>
                   <td>Nerio Martínez</td>
                   <td>Ingenieria en Ciencias de la Computacion</td>
                 </tr>
                 <tr>
-                  <th scope="row">2</th>
-                  <td>Jacob</td>
-                  <td>Thornton</td>
-                  <td>tijh</td>
-                </tr>
-                <tr>
-                  <th scope="row">3</th>
-                  <td>Larry</td>
-                  <td>Bird</td>
-                  <td>twitter</td>
-                </tr>
-                <tr>
                     <th scope="row">PS100114</th>
                     <td>José Mauricio</td>
                     <td>Perez Sageth</td>
-                    <td>LICENCIATURA EN SISTEMAS DE COMPUTACION ADMINISTRATIVA</td>
+                    <td>Licenciatura en Sistemas de Computación Administrativa</td>
                   </tr>
+                <tr>
+                  <th scope="row">RM101712</th>
+                  <td>Moisés Alberto</td>
+                  <td>Rivera Mendoza</td>
+                  <td>ING o LIC</td>
+                </tr>
               </tbody>
             </table>
     </div>
